@@ -68,3 +68,4 @@ DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+.vs/
